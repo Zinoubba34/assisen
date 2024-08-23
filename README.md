@@ -1,4 +1,4 @@
 # assisen 
-git clone git clone https://github.com/assisen/dev zinou
+git clone https://github.com/Zinoubba34/assisen.git
 cd zinou
 python3 zinou.py
